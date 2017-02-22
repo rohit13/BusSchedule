@@ -1,0 +1,23 @@
+﻿  Security.cpp
+  OptimizationEngineTest.cpp
+  Engine.cpp
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(110): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(231): warning C4018: '<': signed/unsigned mismatch
+  Dendaar.cpp
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\dendaar.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  FileReaderTest.cpp
+  FileReader.cpp
+  BrokerClient.cpp
+  lendaar.cpp
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\lendaar.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(144): warning C4715: 'OptimizationEngine::findPair': not all control paths return a value
+c:\users\ishan\documents\visual studio 2015\projects\busschedule\busschedule\engine.cpp(124): warning C4715: 'OptimizationEngine::findIndex': not all control paths return a value
+  BusSchedule.vcxproj -> c:\users\ishan\documents\visual studio 2015\Projects\BusSchedule\Debug\BusSchedule.exe
+  BusSchedule.vcxproj -> c:\users\ishan\documents\visual studio 2015\Projects\BusSchedule\Debug\BusSchedule.pdb (Full PDB)
